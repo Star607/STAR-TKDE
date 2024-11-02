@@ -1,0 +1,7 @@
+assets/*
+logs/*
+saved_data/*
+out/*
+
+.vscode/*
+__pycache__/*
